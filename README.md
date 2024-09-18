@@ -1,1 +1,1 @@
-# raspberry-pi-touch-pad-drawing-machine
+# Raspberry Pi Touch Pad Drawing Machine
